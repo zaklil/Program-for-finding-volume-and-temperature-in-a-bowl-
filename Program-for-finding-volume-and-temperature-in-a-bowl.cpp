@@ -2,7 +2,6 @@
 using namespace std;
  int main() 
 {
-
     int v1;
     int v2;
     int v3;
@@ -17,8 +16,7 @@ using namespace std;
 	cin >> t1;
 	cin >> t2;
 	cin >> t3;
-    cin>> t1;
-    cin>> v1;
+    
     v3=v1+v2;
     t3=(t1+t2)/2;
     
